@@ -1,4 +1,4 @@
-import { allowed_updates, postToTelegramApi } from './core';
+import { allowed_updates, postToTelegramApi } from './core.js';
 
 // ---------------------------------------- MOTHER BOT ----------------------------------------
 
